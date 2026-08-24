@@ -1,0 +1,66 @@
+{
+  "name": "SNS Funerals",
+  "brand_display": "SNS FUNERALS",
+  "tagline": "WE MOURN TOGETHER",
+  "phones": [
+    "072 650 5357",
+    "076 051 1130",
+    "083 815 9537"
+  ],
+  "whatsapp": "072 650 5357",
+  "email": "snsfunerals@outlook.com",
+  "address": null,
+  "services": [
+    [
+      "Funeral Arrangements",
+      "Practical guidance and coordinated support for families arranging a respectful farewell."
+    ],
+    [
+      "Funeral & Tombstone Option",
+      "Plan options include funeral support and, where selected, a tombstone benefit."
+    ],
+    [
+      "Ceremony Support",
+      "Set-up support for the funeral service environment, with attention to dignity and order."
+    ],
+    [
+      "Family Cover Options",
+      "Flexible membership options are available for individuals and families."
+    ]
+  ],
+  "plans": [
+    {
+      "name": "Plan A",
+      "price": "R200",
+      "note": "Contribution for 10 members",
+      "items": [
+        "Funeral benefit",
+        "10 members"
+      ]
+    },
+    {
+      "name": "Plan B",
+      "price": "R380",
+      "note": "Contribution for 10 members",
+      "items": [
+        "Funeral benefit",
+        "Tombstone benefit",
+        "10 members"
+      ]
+    },
+    {
+      "name": "Family Plan",
+      "price": "R165",
+      "note": "Contribution",
+      "items": [
+        "Main member",
+        "Spouse",
+        "5 children under 18"
+      ]
+    }
+  ],
+  "plan_notes": [
+    "Joining fee: R150 once off",
+    "6 months waiting period"
+  ]
+}
